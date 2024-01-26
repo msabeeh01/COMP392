@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sabeeh/Desktop/COMP392/Week 2/Classwork2_VS_COMP392_MS",
+      "program": "/Users/sabeeh/Desktop/COMP392/Week 2/Classwork2_VS_COMP392_MS/build/Debug/outDebug"
+    }
+  ]
+}
